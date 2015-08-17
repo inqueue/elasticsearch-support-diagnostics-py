@@ -1,0 +1,1 @@
+# elasticsearch-support-diagnostics-py
